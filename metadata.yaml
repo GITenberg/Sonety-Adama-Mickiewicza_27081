@@ -1,0 +1,27 @@
+_repo: Sonety-Adama-Mickiewicza_27081
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mickiewicz, Adam
+    birthdate: 1798
+    deathdate: 1855
+    gutenberg_agent_id: '32429'
+    url: http://www.gutenberg.org/2009/agents/32429
+    wikipedia: http://en.wikipedia.org/wiki/Adam_Mickiewicz
+description: ''
+gutenberg_issued: '2008-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27081'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PG'
+title: Sonety Adama Mickiewicza
+url: http://www.gutenberg.org/ebooks/27081
